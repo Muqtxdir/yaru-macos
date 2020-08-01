@@ -1,4 +1,4 @@
-	![logo](screenshots/yaru-macos(256x2).png)
+![logo](screenshots/yaru-macos(256x2).png)
 ### Yaru-macOS
 Yaru-macOS is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
 
